@@ -1,0 +1,12 @@
+.banner{
+    background-color: teal;
+    width: 100%;
+    height: 100px;
+    margin-bottom: 25px
+}
+.banner-text{
+    top:4%;
+    left:47%;
+    position:absolute;
+    transform:transform;
+}
